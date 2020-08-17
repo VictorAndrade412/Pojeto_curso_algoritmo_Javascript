@@ -1,17 +1,4 @@
-/*escreval ("Digite seu nome: ")
-   leia (nome)
-   escreval ("Digite sua primeira nota: ")
-   leia (nota1)
-   escreval ("Digite sua segunda nota: ")
-   leia (nota2)
-   
-   media := (nota1 + nota2) / 2
-   
-   se media >= 5 então
-      escreva (nome,", aprovado! ")
-   senao
-      escreva (nome,", reprovado! ")
-   Fimse*/
+
 
    var nota1, nota2, nome;
    nome = prompt("Digite o nome do aluno: ")
